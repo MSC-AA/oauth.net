@@ -219,6 +219,7 @@ require('../includes/_header.php');
       <li><a href="https://clever.com/">Clever</a></li>
       <li><a href="https://www.dropbox.com/developers/core/docs#oa2-authorize">Dropbox</a></li>
       <li><a href="http://developers.facebook.com/docs/authentication/">Facebook's Graph API</a></li>
+      <li><a href="https://www.flickr.com/services/api/auth.oauth.html">Flickr API</a></li>
       <li><a href="https://developer.foursquare.com/overview/auth">Foursquare</a></li>
       <li><a href="http://developer.github.com/v3/oauth/">GitHub</a></li>
       <li><a href="https://developers.google.com/accounts/docs/OAuth2">Google</a></li>
